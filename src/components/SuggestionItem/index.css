@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.suggestion-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  font-family: 'Roboto';
+  background-color: #ffffff;
+  margin-bottom: 1px;
+}
+.suggestion-text {
+  color: #64748b;
+  font-size: 12px;
+  margin-left: 0px;
+}
+.arrow-icon {
+  color: #64748b;
+  height: 15px;
+  width: 15px;
+}
